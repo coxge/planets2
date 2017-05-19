@@ -1,1 +1,6 @@
-New- Brent is adding stuff
+<<<<<<< HEAD
+New- Brent is adding stuff again
+=======
+New
+George is putting something new here
+>>>>>>> dc7ba4e2955873c0acd2af048ab8d1dd5fc16eca
