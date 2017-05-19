@@ -1,6 +1,12 @@
+
+New- Brent is adding stuff again
+=======
 New
-<<<<<<< HEAD
+
 wael's edits
 =======
 George is putting something new here 
->>>>>>> dc7ba4e2955873c0acd2af048ab8d1dd5fc16eca
+wael's third edits
+
+
+
